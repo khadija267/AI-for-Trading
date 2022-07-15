@@ -18,3 +18,21 @@ Applying Genesis Period Analysis, First Halving Analysis, and Second Halving Ana
       <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/3.png?raw=true" width="400" /> 
 
 </p>
+
+## 3. Turn of Month Effect:
+Strategy is equity prices increase during the last 4 days and the first 3 days of each month.
+We buy the BTC on close at the first day of the month and sell it on the following day.
+
+Title: Turn of the Month Strategy Template
+Description: The strategy buys the asset on the last day of a month and
+sells the asset on the first day of the next month. If the asset price
+is greater than the 10-day SMA then the strategy continues to hold the
+asset.
+Dataset: BTC_1min
+<p float="center">
+  <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/7.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/8.png?raw=true" width="400" /> 
+
+</p>
+
+
