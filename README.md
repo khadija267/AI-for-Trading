@@ -1,4 +1,5 @@
-# Time-Series-Anomaly-Detection
+#  AI-for-Trading
+## 1. Time-Series-Anomaly-Detection
 Deep Learning model using keras on S&amp;P_500_Index_Data to detect anomalies.
 How? 
    1- train Autoencoder network on data woth no anomalies
