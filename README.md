@@ -37,4 +37,23 @@ Dataset: BTC_1min
 
 </p>
 
+## 4. Trading data analysis:
+
+Data Analysis using:
+
+- Gap Analysis
+- Signal Bar Analysis
+- Profit Calculation
+- Day Night Comparison
+- Trading Statistics
+<p float="center">
+  <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/9.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/10.png?raw=true" width="400" /> 
+      <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/11.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/12.png?raw=true" width="400" /> 
+
+</p>
+
+
+
 
