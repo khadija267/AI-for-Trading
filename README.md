@@ -8,9 +8,10 @@ How?
   <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/4.png?raw=true" width="400" /> 
     <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/5.png?raw=true" width="400" /> 
       <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/6.png?raw=true" width="400" /> 
-
 </p>
+
 ## 2. Crypto data analysis:
+
 Applying Genesis Period Analysis, First Halving Analysis, and Second Halving Analysis.
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/1.png?raw=true" width="400" /> 
@@ -20,6 +21,7 @@ Applying Genesis Period Analysis, First Halving Analysis, and Second Halving Ana
 </p>
 
 ## 3. Turn of Month Effect:
+
 Strategy is equity prices increase during the last 4 days and the first 3 days of each month.
 We buy the BTC on close at the first day of the month and sell it on the following day.
 
