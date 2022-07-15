@@ -8,8 +8,8 @@ How?
 ## 2. Crypto data analysis:
 Applying Genesis Period Analysis, First Halving Analysis, and Second Halving Analysis.
 <p float="center">
-  <img src="https://github.com/khadija267/AI-for-Trading/blob/main/images/1.png?raw=true" width="200" /> 
-    <img src="https://github.com/khadija267/AI-for-Trading/blob/main/images/2.png?raw=true" width="200" /> 
-      <img src="https://github.com/khadija267/AI-for-Trading/blob/main/images/3.png?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/AI-for-Trading/blob/master/images/1.png?raw=true" width="200" /> 
+    <img src="https://github.com/khadija267/AI-for-Trading/blob/images/2.png?raw=true" width="200" /> 
+      <img src="https://github.com/khadija267/AI-for-Trading/blob/images/3.png?raw=true" width="200" /> 
 
-</p>
+</p>https://github.com/khadija267/AI-for-Trading/blob/master/images/1.png?raw=true
